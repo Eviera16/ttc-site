@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(red, yellow);
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+}
+
+.email {
+    color: blue;
+}
